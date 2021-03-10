@@ -29,3 +29,29 @@ Check out the content pages bundled with this sample book to get started.
 :file: ./images/crl_trl_avaliacoes_REFINO.html
 ```
 ````
+
+texto 
+
+````{tabbed} Todos
+```{raw} html
+:file: ./images/plot_0.html
+```
+````
+
+````{tabbed} E&P
+```{raw} html
+:file: ./images/plot_1.html
+```
+````
+
+````{tabbed} GIA & UNs
+```{raw} html
+:file: ./images/plot_2.html
+```
+````
+
+````{tabbed} Refino
+```{raw} html
+:file: ./images/plot_3.html
+```
+````
